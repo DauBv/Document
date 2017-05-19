@@ -1,1 +1,13 @@
-Việt nam
+echo "# Document" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/DauBv/Document.git
+git push -u origin master
+
+
+//  delete a file from git
+git rm file1.txt
+git commit -m "remove file1.txt"
+git rm --cached file1.txt
+git push origin branch_name
