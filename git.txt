@@ -1,3 +1,11 @@
+
+---Add, commit files and folder git -----
+git add --all
+git commit -am "<commit message>"
+git push
+
+---------------------------------------
+
 echo "# Document" >> README.md
 git init
 git add README.md
