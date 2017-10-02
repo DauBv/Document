@@ -1,7 +1,7 @@
 Error:Execution failed for task ':app:transformClassesWithDexForDebug'.
 > com.android.build.api.transform.TransformException: com.android.ide.common.process.ProcessException: java.util.concurrent.ExecutionException: com.android.dex.DexIndexOverflowException: method ID not in [0, 0xffff]: 65536
 
-
+OK
 ------------------------------------------------------------------------------
 1. File Build.grand 
 android {
