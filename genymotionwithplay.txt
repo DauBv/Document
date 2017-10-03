@@ -36,3 +36,6 @@ You can also search for Google Maps, update it manually (press update or install
 
 Now try searching for apps in Google Play and if you can find and install for example 'Netflix' or 'Google Drive' then congrats you now have ARM support and Google Play fully setup!
 
+---------------------------Link Download file install ch play -----------------------
+http://opengapps.org/
+
