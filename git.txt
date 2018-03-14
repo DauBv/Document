@@ -5,6 +5,15 @@ git commit -am "<commit message>"
 git push
 
 ---------------------------------------
+git add and commit file, fordel
+git add *
+git commit -m "message commit"
+git push origin master
+<input account and pass>
+
+
+note: add and commit fordel -> in fordel must have 1 file
+------------------------------------
 
 echo "# Document" >> README.md
 git init
